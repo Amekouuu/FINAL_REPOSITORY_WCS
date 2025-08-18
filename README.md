@@ -4,3 +4,4 @@ Group Members:
 - PINEDA, Eldrin Josh P.
 - Castillo, Ed Clarence L.
 - Pradilla, Khristian Carl J.
+- Naguit, Christian James R.
