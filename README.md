@@ -1,4 +1,5 @@
 # FINAL_REPOSITORY_WCS
+Group Name: Daddy's Home
 Group Members:
 - Alberto, Micko Q.
 - PINEDA, Eldrin Josh P.
